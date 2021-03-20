@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14815736050",
+    "firebase_url": "https://quickshopping-8dd04.firebaseio.com",
+    "project_id": "quickshopping-8dd04",
+    "storage_bucket": "quickshopping-8dd04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14815736050:android:40e168705d57b485e0606b",
+        "android_client_info": {
+          "package_name": "com.example.quickshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14815736050-t45e3bc0rbaluap8h3l0ao101krbajct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickshopping",
+            "certificate_hash": "7eaa857aa3d2507b8ea8fbc4097f045ad0b5d80b"
+          }
+        },
+        {
+          "client_id": "14815736050-f494s0g28bsd7hbl6sa3r848inkfvuhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkssknVvsn_S0n1_NZqO0-AVD_2bmI9Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14815736050-f494s0g28bsd7hbl6sa3r848inkfvuhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
